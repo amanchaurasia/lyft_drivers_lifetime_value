@@ -79,6 +79,6 @@ You'll find three CSV files attached with the following data:
 
 You can assume that:
 
-*   All rides in the data set occurred in San Francisco
+*   All rides in the data set occurred in San Francisco, california
     
 *   All timestamps in the data set are in UTC
